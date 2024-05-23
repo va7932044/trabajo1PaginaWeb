@@ -1,0 +1,60 @@
+h2:hover {
+    color: rgb(240, 248, 255);
+  }
+  
+  p:hover {
+    color:aliceblue;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-family: "Sevillana", cursive;
+    padding: right;
+  }
+  
+  h2{
+    text-shadow: 5px 5px 8px #fff, 5px 5px 8px #fff;
+  }
+  
+  .bordes-redondeados{
+    border-radius: 1000px;
+    border-color: black;
+    border-style: solid;
+  }
+  
+  body{
+    background-color: lightpink;
+  }
+  
+  .cont img{
+    float: right;
+    width: 300px;
+  }
+  
+  .caja{
+    display: inline-block;
+  }
+  
+  .caja-2{
+    display: inline-block;
+  }
+  
+  .caja-4{
+    position: absolute;
+    left: 300px;
+    bottom: 147px;
+  }
+  
+  ol li a:hover{
+    background-color: aqua;
+  }
+  
+  ol li a{
+    color: black;
+  }
+   
+  .footer p{
+    display: center;
+    vertical-align: middle;
+    position: relative;
+  }
